@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/crazycray-comms/static/css/main.77abee92.css",
+    "main.js": "/crazycray-comms/static/js/main.e35d8cec.js",
+    "static/js/453.42bb7aac.chunk.js": "/crazycray-comms/static/js/453.42bb7aac.chunk.js",
+    "static/media/step-whole.webp": "/crazycray-comms/static/media/step-whole.8c6b04103bb0b52b5276.webp",
+    "static/media/watermark.webp": "/crazycray-comms/static/media/watermark.c74fe8fffef438ed88b1.webp",
+    "static/media/footer-image.webp": "/crazycray-comms/static/media/footer-image.28b3ff9537fe15ed7c76.webp",
+    "static/media/step-2.webp": "/crazycray-comms/static/media/step-2.137931f139029e3e554c.webp",
+    "static/media/step-1.webp": "/crazycray-comms/static/media/step-1.e9353094711a4fa1aa05.webp",
+    "static/media/step-4.webp": "/crazycray-comms/static/media/step-4.62641564ed2dc0eb0774.webp",
+    "static/media/header-text.webp": "/crazycray-comms/static/media/header-text.73d000226eb3358912fb.webp",
+    "static/media/step-5.webp": "/crazycray-comms/static/media/step-5.f76ad6729a569ac43c9d.webp",
+    "static/media/step-6.webp": "/crazycray-comms/static/media/step-6.cbe37e7bb6e1888b7fc9.webp",
+    "static/media/step-3.webp": "/crazycray-comms/static/media/step-3.0c9dd081a2b4743ddd63.webp",
+    "static/media/step-xx.webp": "/crazycray-comms/static/media/step-xx.c03aa9e3dc4141f35d13.webp",
+    "static/media/c-4.webp": "/crazycray-comms/static/media/c-4.67d11dbbca389f01e0e4.webp",
+    "static/media/c-2.webp": "/crazycray-comms/static/media/c-2.feadead8053550a11231.webp",
+    "static/media/c-1.webp": "/crazycray-comms/static/media/c-1.3fc81273818eaa48016f.webp",
+    "index.html": "/crazycray-comms/index.html",
+    "static/media/c-3.webp": "/crazycray-comms/static/media/c-3.23bb60584b4e4728dfa2.webp",
+    "static/media/step-arrow2.webp": "/crazycray-comms/static/media/step-arrow2.f907633f7bc5d418fcca.webp",
+    "static/media/step-arrow3.webp": "/crazycray-comms/static/media/step-arrow3.5c1015094221e4c94fd6.webp",
+    "static/media/step-arrow1.webp": "/crazycray-comms/static/media/step-arrow1.6f61a694d39feff1b137.webp",
+    "main.77abee92.css.map": "/crazycray-comms/static/css/main.77abee92.css.map",
+    "main.e35d8cec.js.map": "/crazycray-comms/static/js/main.e35d8cec.js.map",
+    "453.42bb7aac.chunk.js.map": "/crazycray-comms/static/js/453.42bb7aac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77abee92.css",
+    "static/js/main.e35d8cec.js"
+  ]
+}
